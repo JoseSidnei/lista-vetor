@@ -11,7 +11,7 @@ namespace ListaVetor
         public Exercicio02()
         {
 
-
+            // 2 -​ Crie um vetor para guardar 10 nomes.
 
         }
     }

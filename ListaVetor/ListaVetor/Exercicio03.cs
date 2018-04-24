@@ -11,7 +11,7 @@ namespace ListaVetor
         public Exercicio03()
         {
 
-
+            // 3 -​ Crie um vetor para guardar o nome e o preço de 7 produtos;
         }
     }
 }
